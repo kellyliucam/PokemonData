@@ -20,7 +20,7 @@ Pokémon name data is sourced from:
 
 See [`CITATIONS.md`](./CITATIONS.md) for full citations.
 
-## 🤖 AI Use Statement
+## AI Use Statement
 
 This project was built with the assistance of **Claude (Anthropic)** as a coding assistant. See [`REFLECTION.md`](./REFLECTION.md) for a full personal reflection on the experience.
 

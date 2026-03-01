@@ -14,3 +14,4 @@ The process was mostly straightforward. When I asked Claude to generate specific
 ## Concerns and Confusion
 
 There were times when the AI was confusing and kept misunderstanding my prompts about some issues I found with the code. Sometimes it misunderstood my prompts, especially when I was trying to fix small issues in the code or adjust the interface. I kept having to rephrase my instructions multiple times before it gave me back something useful, which was frustrating at times. Also, while the code generated technically worked it did not display what I originally wanted it to do so I had to start from scratch multiple times.
+Another issue I had was that I initially tried building this project in Python. However, I kept running into errors and after many failed attempts and troubleshooting, I was not able to fix the issues. Because of this, I decided to switch to an HTML/JavaScript approach.

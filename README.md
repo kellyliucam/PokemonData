@@ -18,11 +18,10 @@ Pokémon name data is sourced from:
 - **PokéAPI** — [https://pokeapi.co/](https://pokeapi.co/)  
   Used to retrieve Pokémon images via their GitHub-hosted image assets.
 
-See [`CITATIONS.md`](./citations/CITATIONS.md) for full citations.
 
 ## AI Use Statement
 
-This project was built with the assistance of **Claude (Anthropic)** as a coding assistant. See [`REFLECTION.md`](./REFLECTION/REFLECTION.md) for a full personal reflection on this project.
+This project was built with the assistance of **Claude (Anthropic)** as a coding assistant
 
 Quick Summary:
 - Claude generated the HTML/CSS/JS structure and the initial dataset based on the Bulbapedia source
